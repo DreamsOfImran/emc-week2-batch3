@@ -2,4 +2,4 @@
 
 # Simple shell script with syntax error
 
-echo("Hello World")
+echo "Hello World"
