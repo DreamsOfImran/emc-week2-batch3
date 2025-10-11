@@ -2,7 +2,7 @@
 
 echo "Starting script..."
 
-if [ $1 -gt 10  # <-- Missing closing bracket causes syntax error
+if [ $1 -gt 10  
 then
     echo "Number is greater than 10"
 else
