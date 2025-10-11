@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 echo "Checking shell scripts for syntax errors..."
@@ -11,4 +12,3 @@ for file in *.sh; do
     fi
   fi
 done
-
